@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLibrary", "PublicLibrary\PublicLibrary.csproj", "{CAD230AC-DC73-43D6-8473-4E073FC8C5EF}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject", "ModelingProject\ModelingProject.modelproj", "{9D2411BC-AAB9-4D5D-9768-D6BF7DDF37A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD230AC-DC73-43D6-8473-4E073FC8C5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD230AC-DC73-43D6-8473-4E073FC8C5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD230AC-DC73-43D6-8473-4E073FC8C5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD230AC-DC73-43D6-8473-4E073FC8C5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2411BC-AAB9-4D5D-9768-D6BF7DDF37A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2411BC-AAB9-4D5D-9768-D6BF7DDF37A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2411BC-AAB9-4D5D-9768-D6BF7DDF37A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2411BC-AAB9-4D5D-9768-D6BF7DDF37A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
